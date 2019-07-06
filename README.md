@@ -3,8 +3,9 @@ Naive Bayes on Reviews of Customer using Bag of Words Model
 
 Objectives are listed below.
 
-1. Visit the given link
+1. Visit the given links:
     https://www.gartner.com/reviews/market/meeting-solutions-web-conferencing/vendor/att/product/att-connect
+    
     https://www.gartner.com/reviews/market/meeting-solutions-web-conferencing/vendor/att/product/att-connect?pageNum=2
     https://www.gartner.com/reviews/market/meeting-solutions-web-conferencing/vendor/att/product/att-connect?pageNum=3
     https://www.gartner.com/reviews/market/meeting-solutions-web-conferencing/vendor/att/product/att-connect?pageNum=4
