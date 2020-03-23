@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jul  6 01:03:51 2019
-
-@author: Aashish Gupta
-"""
-
 # Importing Essential Libraries
 from PyQt4.QtCore import *
 from PyQt4.QtGui import *
