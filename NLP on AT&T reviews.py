@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jul  6 01:03:51 2019
-
-@author: Aashish Gupta
-"""
-
 # Imporing Essestial Libraries
 import numpy as np
 import pandas as pd
